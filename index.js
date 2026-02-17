@@ -18,7 +18,7 @@ const __dirname = dirname(__filename);
 // Create server instance
 const server = new Server(
   {
-    name: "MCP_MD_TO_PDF",
+    name: "MD_TO_PDF",
     version: "1.0.0",
   },
   {

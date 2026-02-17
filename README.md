@@ -85,7 +85,7 @@ Edit your Claude Desktop config file:
 ```json
 {
   "mcpServers": {
-    "pdf-generator": {
+    "MD_TO_PDF": {
       "command": "node",
       "args": ["C:\\path\\to\\MCP_MD_TO_PDF\\index.js"]
     }
@@ -98,7 +98,7 @@ Edit your Claude Desktop config file:
 ```json
 {
   "mcpServers": {
-    "pdf-generator": {
+    "MD_TO_PDF": {
       "command": "node",
       "args": ["/path/to/MCP_MD_TO_PDF/index.js"]
     }
