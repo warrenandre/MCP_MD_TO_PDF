@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "pdf-generator": {
+      "command": "node",
+      "args": ["c:\\MS-POC\\SE_Projects\\MCP_servers\\PDF_Generate\\index.js"]
+    }
+  }
+}
